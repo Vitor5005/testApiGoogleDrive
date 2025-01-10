@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TateapiApplication<tateapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ufac.br.tateapi.TateapiApplication",
+            "projectName": "tateapi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
